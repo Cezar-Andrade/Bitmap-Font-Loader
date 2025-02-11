@@ -1,0 +1,12 @@
+__pycache__
+unused
+Screenshot_*
+*Raccourci.lnk
+work
+old
+*ignore*
+images/*
+fonts/*
+text_samples/*
+sample_text.txt
+settings.ini
